@@ -23,5 +23,3 @@ This repository contains:
 Raw survey data are not publicly available due to confidentiality and ethical constraints.
 Only aggregated results and methodological materials are shared.
 
-## Citation
-If you use this repository, please cite it using the provided `CITATION.cff` file.
